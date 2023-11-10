@@ -7,11 +7,12 @@ public static void main(){
 System.out.print("hello world");
 }
 sixth step
-fourth step
+seventh step
 
 function(name:string){
 console.log("Hi"+name);
 }
+
 
 
 
